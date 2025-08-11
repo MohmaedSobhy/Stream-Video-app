@@ -1,16 +1,18 @@
-# stream_video_app
+# 📹 Simple Stream Video App (Flutter)
 
-A new Flutter project.
+A basic Flutter app demonstrating how to integrate Stream's Video SDK for real-time video calling.
 
-## Getting Started
+## 🚀 Features
+- Join & leave video calls
+- Display remote participants
+- Mute/unmute microphone
+- End call button
+- Works on Android, iOS, and Web
 
-This project is a starting point for a Flutter application.
+## 📱 App Screens
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a60bf07e-b7f7-4838-863b-d91fccdd6a6e" alt="Home Screen" width="30%" height="2000px" />
+  <img src="https://github.com/user-attachments/assets/971cdc6a-431b-443b-bcf3-3a17675bd1e0" alt="Call Screen" width="30%" height="2000px"/>
+  <img src="https://github.com/user-attachments/assets/70fc58b8-fe43-4341-9802-abc9313974a8" alt="End Call Screen" width="30%" height="2000px"/>
+</p>
